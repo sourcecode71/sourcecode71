@@ -6,7 +6,7 @@ Accomplished Software Engineer with extensive experience in object-oriented, mul
 
 Skills: C#.NET , ASP.NET MVC , NodeJs , Angular, React, TypeScript, Web API , Entity Framework , SQL Server , MySQL , MongoDB, Elasticsearch , Scrum
 
-- 🔭 I’m currently working on Angular and .NET core project. It is student management and student admission portal. In a student management system has number of module like dashboard, registration, attendance, graduation.  https://irasv1.iub.edu.bd/  
+- 🔭 I’m currently working on Angular and .NET core project. It is student management and student admission portal. In a student management system has number of modules like dashboard, registration, attendance, graduation.  https://irasv1.iub.edu.bd/  
 - 🌱 I’m currently learning Azure and AWS lambda, docker and kubernetes  
 - 👯 I’m looking to collaborate on Angular and .NET core projects 
 - 💬 Ask me about C#, .NET Core, Web API, Angular, JavaScript  
