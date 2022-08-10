@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Mostafizur
 #### Full Stack Developer
-![Full Stack Developer](https://www.linkedin.com/in/mostafiz57/)
+![Full Stack Developer]
+https://www.linkedin.com/in/mostafiz57/
 
 Accomplished Software Engineer with extensive experience in object-oriented, multi-tiered enterprise application development in both web and desktop arena. Effective collaborator works well in a fast-moving team environment, delivers efficient solutions on time; supports existing applications while working on multiple concurrent projects. Fullstack developer contributes to both the front and back end. Writes clean, well-structured code, and mentors junior developers.
 
