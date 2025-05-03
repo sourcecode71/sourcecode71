@@ -23,13 +23,6 @@ Led the frontend setup of a **Vue 3** project using **𝗕𝗿𝘆𝗻𝘁𝗺 �
 ### 🔧 Enterprise Portal – Angular + .NET Core Full-Stack Application - [Upwork Project](#)
 Worked as a senior full-stack developer with **Angular 13+** and **.NET Core**. Built highly responsive UIs with **NgRx** and **RxJS**, focusing on dynamic forms and user-centric modules. Delivered solutions for complex enterprise portals while collaborating directly with stakeholders in an agile environment.
 
-## 💬 What Clients Say:
-> "Mostafizur is extremely professional, cooperative, and creative. He’s thorough, detail-oriented, and suggests smart improvements. Highly recommended for full-stack development."
-
-> "Excellent work, very responsive."
-
-> "Highly recommend – was a great engineering resource for over 5 years."
-
 ## 💡 I Can Help You With:
 - Full-Stack Development (Frontend + Backend)
 - Legacy Code Refactoring and Modernization
@@ -39,8 +32,8 @@ Worked as a senior full-stack developer with **Angular 13+** and **.NET Core**. 
 - Agile and Scrum Methodologies
 
 ## 📫 Connect with Me:
-- **Email:** [mostafiz@example.com](mailto:mostafiz@example.com)
-- **LinkedIn:** [linkedin.com/in/mostafizur-rahman](https://www.linkedin.com/in/mostafizur-rahman)
-- **Upwork:** [upwork.com/freelancers/~mostafizur](https://www.upwork.com/freelancers/~mostafizur)
+- **Email:** [mostafiz57@gmail.com](mailto:mostafiz@example.com)
+- **LinkedIn:** [linkedin.com/in/mostafizur-rahman](https://www.linkedin.com/in/mostafiz57/)
+- **Upwork:** [upwork.com/freelancers/~mostafizur](https://www.upwork.com/freelancers/~010301e342c40c80d8?s=1110580755107926016)
 
 Let's collaborate and build something amazing together! 🚀
