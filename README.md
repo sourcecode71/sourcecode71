@@ -1,25 +1,46 @@
-### Hi there 👋, my name is Mostafizur
-#### Full Stack Developer
-![Full Stack Developer] (https://www.linkedin.com/in/mostafiz57/)
+# 👋 Hello, I'm Mostafizur Rahman | Full-Stack Software Engineer 👨‍💻
 
-Accomplished Software Engineer with extensive experience in object-oriented, multi-tiered enterprise application development in both web and desktop arena. Effective collaborator works well in a fast-moving team environment, delivers efficient solutions on time; supports existing applications while working on multiple concurrent projects. Fullstack developer contributes to both the front and back end. Writes clean, well-structured code, and mentors junior developers.
+🚀 **Building modern, scalable, and maintainable applications with .NET Core, Angular, React, and Microservices**  
+🔧 **Experienced in backend and frontend development**  
+🌍 **12+ years in software development | 7+ years working with US-based clients remotely**  
 
-Skills: C#.NET , ASP.NET MVC , NodeJs , Angular, Razor, Blazor, TypeScript, Web API , Entity Framework , SQL Server , MySQL , MongoDB, Elasticsearch , Scrum
+## 💼 About Me:
+I'm a passionate and dedicated full-stack software engineer with over 12 years of experience, including 7 years of working remotely with top-tier US clients. I specialize in building secure, scalable, and maintainable SaaS and enterprise applications. My expertise spans backend development using **.NET Core (C#)** and dynamic, modern frontend development with **Angular** and **React**. I follow **Clean Architecture**, **SOLID principles**, and proven **design patterns** to ensure high-quality software.
 
-- 🔭 I’m currently working on Angular and .NET core project. It is student management and student admission portal. In a student management system has number of modules like dashboard, registration, attendance, graduation.  https://irasv1.iub.edu.bd/  
-- 🌱 I’m currently learning Azure and AWS lambda, docker and kubernetes  
-- 👯 I’m looking to collaborate on Angular and .NET core projects 
-- 💬 Ask me about C#, .NET Core, Web API, Angular, JavaScript  
-- 📫 How to reach me: Email, Github, Skype, Zoom, Phone 
+## 🔧 Technologies & Tools:
+- **Frontend:** Angular, React, Vue 3, Next.js, Tailwind CSS, Material UI, Bootstrap
+- **Backend:** .NET Core (C#), Node.js, Express.js, NestJS, Microservices architecture
+- **Databases:** MongoDB, PostgreSQL, MySQL, CouchDB
+- **Testing:** Cypress, Cucumber, Gherkin, Jest, Mocha
+- **Version Control:** Git, GitHub, GitLab, Bitbucket
+- **Architecture & Design:** Clean Architecture, SOLID principles, DDD, OOP, RESTful API
+- **Cloud Platforms:** AWS, Azure, Docker, Kubernetes
 
+## 🌐 Selected Projects:
+### 🚀 Bryntum Scheduler Setup (Vue 3 Application) - [Upwork Project](#)
+Led the frontend setup of a **Vue 3** project using **𝗕𝗿𝘆𝗻𝘁𝗺 𝗦𝗰𝗵𝗲𝗱𝘂𝗹𝗲𝗿**, **𝗚𝗮𝗻𝘁𝘁 𝗖𝗵𝗮𝗿𝘁**, and **𝗚𝗿𝗶𝗱**. Migrated the codebase from JavaScript to TypeScript, integrated **Vuex** for scalable state management, and implemented **Cypress + Cucumber with Gherkin** to facilitate BDD collaboration with non-technical stakeholders. Applied **Domain-Driven Design (DDD)** to tightly align the frontend, backend, and product owner.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sourcecode71)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafiz57/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/2123853)  
+### 🔧 Enterprise Portal – Angular + .NET Core Full-Stack Application - [Upwork Project](#)
+Worked as a senior full-stack developer with **Angular 13+** and **.NET Core**. Built highly responsive UIs with **NgRx** and **RxJS**, focusing on dynamic forms and user-centric modules. Delivered solutions for complex enterprise portals while collaborating directly with stakeholders in an agile environment.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourcecode71)](https://github.com/anuraghazra/github-readme-stats)
+## 💬 What Clients Say:
+> "Mostafizur is extremely professional, cooperative, and creative. He’s thorough, detail-oriented, and suggests smart improvements. Highly recommended for full-stack development."
 
-![Profile views](https://gpvc.arturio.dev/sourcecode71)  
+> "Excellent work, very responsive."
 
+> "Highly recommend – was a great engineering resource for over 5 years."
 
+## 💡 I Can Help You With:
+- Full-Stack Development (Frontend + Backend)
+- Legacy Code Refactoring and Modernization
+- Building Scalable and Secure SaaS Applications
+- Microservices and Cloud-Native Architecture
+- Performance Optimization and Testing
+- Agile and Scrum Methodologies
 
+## 📫 Connect with Me:
+- **Email:** [mostafiz@example.com](mailto:mostafiz@example.com)
+- **LinkedIn:** [linkedin.com/in/mostafizur-rahman](https://www.linkedin.com/in/mostafizur-rahman)
+- **Upwork:** [upwork.com/freelancers/~mostafizur](https://www.upwork.com/freelancers/~mostafizur)
 
-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
+Let's collaborate and build something amazing together! 🚀
