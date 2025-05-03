@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mostafizur Rahman | Full-Stack Software Engineer 👨‍💻
+# 👋 Hello, I'm Mostafizur Rahman | Full-Stack Software Engineer
 
 🚀 **Building modern, scalable, and maintainable applications with .NET Core, Angular, React, and Microservices**  
 🔧 **Experienced in backend and frontend development**  
