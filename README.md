@@ -2,7 +2,7 @@
 
 🚀 **Building modern, scalable, and maintainable applications with .NET Core, Angular, React, and Microservices**  
 🔧 **Experienced in backend and frontend development**  
-🌍 **12+ years in software development | 7+ years working with US-based clients remotely**  
+🌍 **15+ years in software development | 7+ years working with US-based clients remotely**  
 
 ## 💼 About Me:
 I'm a passionate and dedicated full-stack software engineer with over 12 years of experience, including 7 years of working remotely with top-tier US clients. I specialize in building secure, scalable, and maintainable SaaS and enterprise applications. My expertise spans backend development using **.NET Core (C#)** and dynamic, modern frontend development with **Angular** and **React**. I follow **Clean Architecture**, **SOLID principles**, and proven **design patterns** to ensure high-quality software.
